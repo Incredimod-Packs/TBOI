@@ -1,0 +1,43 @@
+{
+  
+     "name":"The Beats Of Incredimen",
+  
+     "short_name":"TBOI",
+  
+     "start_url":"index.html",
+  
+     "display":"standalone",
+  
+     "orientation":"landscape",
+  
+     "background_color":"#5900b3",
+  
+     "theme_color":"black",
+  
+     "scope": "/",
+  
+     "description":"Enjoy",
+  
+     "icon":[
+    
+    {
+    
+      "src":"img/TBOI-192x192.png",
+    
+      "sizes":"192x192",
+    
+      "type":"image/png",
+    },
+    
+    {
+    
+      "src":"img/TBOI-512x512",
+    
+      "sizes":"512x512",
+    
+      "type":"image/png",
+    
+    }
+  
+ ]
+}
