@@ -1,9 +1,9 @@
 {
     "trad": {
         "pop": {
-            "stillHere": "Are you still here?",
-            "shareMixSaved": "Your mix has been saved.",
-            "shareMixSavedPlaylist": "Your mix has been saved in your playlist.",
+            "stillHere": "Don't go...",
+            "shareMixSaved": "Your masterpiece has been saved.",
+            "shareMixSavedPlaylist": "Your masterpiece has been saved in your playlist.",
             "shareShareTop50": "Share it and try to break the Top 50 chart!",
             "dontUseName": "Don't use your real name, choose a nice pseudo instead",
             "paramResetInfoText": "All bonuses will be locked again, like at app's first opening.",
@@ -159,9 +159,9 @@
                 "other": "%{count} results"
             },
             "ago": "%{date_time} ago",
-            "baseline": "Pump it up and nervous",
-            "useHeadphones": "Turn off the lights for a better experience",
-            "selectVersion": "Choose a version to start mixing music",
+            "baseline": "Pump it up and Ho Pe Less",
+            "useHeadphones": "Put on some headphones to become one with the juice",
+            "selectVersion": "Choose a version to start making some Good stuff",
             "enjoyVersion": "There will be more in future!",
             "tuto1": "<b>Drag and drop</b> an icon on<br>a character to have him sing",
             "tuto2": "<b>Drag down</b> a character<br>to have him stop singing",
@@ -178,7 +178,7 @@
             "replayTitle": "Replay mode",
             "replayText": "Does your mix sound good? Then save it and share it!",
             "randomTitle": "Automatic mode",
-            "randomText": "Let our composers play for you! Pump it up and nervous.",
+            "randomText": "Let Hopeless play for you! Pump it up and stay calm.",
             "copyright": "Original game by SO FAR SO GOOD<br><span>Copyright © 2023 All rights reserved</span>",
             "team": "Director, code & animation<br>Design & illustration<br>Music & sound design",
             "stayTuned": "Stay tuned!",
@@ -196,18 +196,18 @@
             "comments": "Comments",
             "thanks": "Thank you",
             "quitAppConfirm": "Do you really want to quit Incredibox?",
-            "modTeam": "<b>Thank you for playing this mod!</b><br> <br>Developed by:<br>Hanta Nyaw 44",
+            "modTeam": "<b>Thank you for playing this mod!</b><br> <br>Developed by:<br>HantaNyaw44 - Director, Designer, Composer Animator<br>AlmondJoker - Background Designer<br>Limezic - Composer<br>Siren Bread - Singer<br>Eugin_Pin - Singer, Composer (Carried V1)<br>Woomy Ben - The one who put all 4 versionsin one<br>FRCB(French Countryball) - Designer, Composer </br>",
             "termsAgreed": "I agreed with the general terms of use",
             "codeEnter": "Enter your code",
             "codeChoose": "Choose a code",
-            "modeSafe": "Safe Mode (parental control)",
+            "modeSafe": "Safe Mode (Useless)",
             "modeDark": "Dark Mode",
             "resetBonus": "Reset bonuses progression",
             "recoverAllMix": "Recover all mixes"
         },
         "dial": {
             "bluetoothLatencyTitle": "Bluetooth bug",
-            "bluetoothLatencyText": "Sorry dude, we've had to disconnect your Bluetooth due to an audio problem. You can connect to it again.",
+            "bluetoothLatencyText": "I have no idea of how,  but this error is annoying asf, so conect your device to a Bluetooth deviceand all will be fixed :)",
             "noNetworkTextCn": "Please connect to internet to play Incredibox."
         }
     },
